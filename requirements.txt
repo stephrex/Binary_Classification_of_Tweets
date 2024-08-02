@@ -1,0 +1,6 @@
+tensorflow
+streamlit
+numpy
+nltk
+re
+datetime
